@@ -34,6 +34,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
     - [MATLAB DSP System Toolbox](https://www.mathworks.com/products/dsp-system.html) - application for designing, simulating, and analyzing signal processing systems
 - **Python**
     - [Librosa](https://librosa.org/doc/latest/index.html) - python package for music and audio analysis
+    - [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - python package for audio visualization and feature creation.
 
 ## How-To Edit Audio
 
